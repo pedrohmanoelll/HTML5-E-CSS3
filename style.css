@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(233, 227, 220);
+}
+h1 {
+    background-color: rgb(229, 209, 182);
+    box-shadow: 3px 3px 3px #583729;
+    margin-left: ;
+    text-align: center;
+    width: 350px;
+    border-radius: 20px;
+}
+
+img {
+    border-radius: 5%
+    
+}
+
+div {
+    background-color: #5f4c44 ;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #5f4c44;
+    width: 300px;
+    padding: px;
+    margin-top: px;
+}
+
+p{
+    color: #332b2b;
+    text-align: cente;
+    text-shadow: 1px 1px 1px #000000ad ;
+}
